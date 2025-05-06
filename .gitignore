@@ -1,2 +1,11 @@
-.history
-answers/
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# System files
+.DS_Store
+*.swp
